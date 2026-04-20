@@ -4,7 +4,7 @@
 
 ## **Objective**  
 
-Set up a Splunk Home Lab on Ubuntu Server to centralize log collection and analysis. Configure the Splunk Universal Forwarder on an Ubuntu machine to forward syslogs and application logs. Enable Windows Event Log monitoring on a Windows machine and forward logs to the Splunk server for comprehensive monitoring.
+Set up a Splunk Home Lab on Ubuntu Server to centralise log collection and analysis. Configure the Splunk Universal Forwarder on an Ubuntu machine to forward syslogs and application logs. Enable Windows Event Log monitoring on a Windows machine and forward logs to the Splunk server for comprehensive monitoring.
   
 
 ---
@@ -18,7 +18,7 @@ The home-lab set up is designed with VMware workstation.
 
 
 ## **Requirements**  
-1. **Virtualization Platform:**  
+1. **Virtualisation Platform:**  
    - [VirtualBox](https://www.virtualbox.org/) (Free)  
    - [VMware Workstation Pro](https://www.vmware.com/products/workstation-pro.html) (Free)  
    - [Proxmox VE](https://www.proxmox.com/en/) (Free and Open Source)  
@@ -49,7 +49,7 @@ The home-lab set up is designed with VMware workstation.
 
 ### **Part 1: Install Splunk on Ubuntu Server (Main Splunk Server)**
 
-#### **Step 1: Install Virtualization Platform**
+#### **Step 1: Install Virtualisation Platform**
 1. Download and install your preferred virtualization platform:
    - [VirtualBox Installation Guide](https://www.virtualbox.org/manual/ch02.html)  
    - [VMware Workstation Pro Guide](https://www.vmware.com/products/workstation-pro/resources.html)  
